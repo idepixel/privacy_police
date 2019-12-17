@@ -28,10 +28,12 @@ This document is the main privacy policy for **ConBip!** Android application. I 
 ## Service providers
 
 I may employ third party companies and individuals due to the following reasons:
+
 - To facilitate my services.
 - To provide the service on my behalf.
 - To perform service-related services.
 - To assist me in analyzing how my service is used.
+
 I want to inform users of my service that these third parties have acces to your personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 ## Security of information
