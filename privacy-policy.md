@@ -5,7 +5,7 @@
 ## Introduction
 
 Thank you for using my software!
-This document is the main privacy policy for **Omni Notes** Android and desktop applications. I respects your privacy rights and care about protecting your information collected by my apps.
+This document is the main privacy policy for **ConBip!** Android application. I respects your privacy rights and care about protecting your information collected by my apps.
 
 ## What information are eventually collected
 
@@ -25,14 +25,23 @@ This document is the main privacy policy for **Omni Notes** Android and desktop 
 - Maintaining user's session, that improves the convenience of my solutions.
 - ~~Ads presentation, including in a way that respects user's interests and his place of residence.~~
 
+## Service providers
+
+I may employ third party companies and individuals due to the following reasons:
+- To facilitate my services.
+- To provide the service on my behalf.
+- To perform service-related services.
+- To assist me in analyzing how my service is used.
+I want to inform users of my service that these third parties have acces to your personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
 ## Security of information
 
 Anonimously collected analytics are kept safe on a database while personal data eventually provided by e-mail are used only for users support purposes and nothing else. No data are sold or shared with third party entities or companies.
 
 ## Contact
 
-To contact me on topics related to products, privacy policy or in another case, use *support@omninotes.app*
+To contact me on topics related to products, privacy policy or in another case, use *idepixel@gmail.com*
 
 Best regards!
 
-Last Update: October 23, 2018
+Last Update: December 17, 2019
